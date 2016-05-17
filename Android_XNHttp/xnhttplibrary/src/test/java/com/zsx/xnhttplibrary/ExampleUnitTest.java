@@ -1,8 +1,6 @@
-package com.zsx.android_xnhttp;
+package com.zsx.xnhttplibrary;
 
 import org.junit.Test;
-
-import android.util.Log;
 
 import static org.junit.Assert.*;
 
@@ -13,6 +11,5 @@ public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
-        Log.e(getClass().getName(), "addition_isCorrect() execute!");
     }
 }
